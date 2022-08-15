@@ -1,0 +1,58 @@
+C:\Users\misha\Documents\Year 2 University\3D Graphics\ACW\Labs\bin\Debug\ACW\floor.jpg
+C:\Users\misha\Documents\Year 2 University\3D Graphics\ACW\Labs\bin\Debug\ACW\texture.jpg
+C:\Users\misha\Documents\Year 2 University\3D Graphics\ACW\Labs\bin\Debug\ACW\wall.jpg
+C:\Users\misha\Documents\Year 2 University\3D Graphics\ACW\Labs\bin\Debug\Lab4\texture.jpg
+C:\Users\misha\Documents\Year 2 University\3D Graphics\ACW\Labs\bin\Debug\Lab4\texture2.jpg
+C:\Users\misha\Documents\Year 2 University\3D Graphics\ACW\Labs\bin\Debug\Lab4\texture3.jpg
+C:\Users\misha\Documents\Year 2 University\3D Graphics\ACW\Labs\bin\Debug\ACW\Shaders\fLighting.frag
+C:\Users\misha\Documents\Year 2 University\3D Graphics\ACW\Labs\bin\Debug\ACW\Shaders\vPassThrough.vert
+C:\Users\misha\Documents\Year 2 University\3D Graphics\ACW\Labs\bin\Debug\Lab2\Shaders\fSimple.frag
+C:\Users\misha\Documents\Year 2 University\3D Graphics\ACW\Labs\bin\Debug\Lab2\Shaders\vLab21.vert
+C:\Users\misha\Documents\Year 2 University\3D Graphics\ACW\Labs\bin\Debug\Lab2\Shaders\vLab22.vert
+C:\Users\misha\Documents\Year 2 University\3D Graphics\ACW\Labs\bin\Debug\Lab3\Shaders\fLighting.frag
+C:\Users\misha\Documents\Year 2 University\3D Graphics\ACW\Labs\bin\Debug\Lab3\Shaders\fPassThrough.frag
+C:\Users\misha\Documents\Year 2 University\3D Graphics\ACW\Labs\bin\Debug\Lab3\Shaders\vLighting.vert
+C:\Users\misha\Documents\Year 2 University\3D Graphics\ACW\Labs\bin\Debug\Lab3\Shaders\vPassThrough.vert
+C:\Users\misha\Documents\Year 2 University\3D Graphics\ACW\Labs\bin\Debug\Lab4\Shaders\fTexture.frag
+C:\Users\misha\Documents\Year 2 University\3D Graphics\ACW\Labs\bin\Debug\Lab4\Shaders\vTexture.vert
+C:\Users\misha\Documents\Year 2 University\3D Graphics\ACW\Labs\bin\Debug\Lab1\Shaders\fSimple.frag
+C:\Users\misha\Documents\Year 2 University\3D Graphics\ACW\Labs\bin\Debug\Lab1\Shaders\vSimple.vert
+C:\Users\misha\Documents\Year 2 University\3D Graphics\ACW\Labs\bin\Debug\Utility\Models\cylinder.bin
+C:\Users\misha\Documents\Year 2 University\3D Graphics\ACW\Labs\bin\Debug\Utility\Models\lab22model.sjg
+C:\Users\misha\Documents\Year 2 University\3D Graphics\ACW\Labs\bin\Debug\Utility\Models\model.bin
+C:\Users\misha\Documents\Year 2 University\3D Graphics\ACW\Labs\bin\Debug\Utility\Models\sphere.bin
+C:\Users\misha\Documents\Year 2 University\3D Graphics\ACW\Labs\bin\Debug\OpenTK.dll
+C:\Users\misha\Documents\Year 2 University\3D Graphics\ACW\Labs\obj\Debug\Labs.csprojAssemblyReference.cache
+C:\Users\misha\Documents\Year 2 University\3D Graphics\ACW\Labs\obj\Debug\Labs.csproj.CoreCompileInputs.cache
+C:\Users\misha\Documents\Year 2 University\3D Graphics\ACW\Labs\obj\Debug\Labs.csproj.CopyComplete
+C:\Users\misha\Documents\Year 2 University\3D Graphics\ACW\Labs\obj\Debug\Labs.exe
+C:\Users\misha\Documents\Year 2 University\3D Graphics\ACW\Labs\obj\Debug\Labs.pdb
+C:\Users\misha\Documents\Year 2 University\3D Graphics\Startup Code 3D Graphics\Labs\bin\Debug\ACW\floor.jpg
+C:\Users\misha\Documents\Year 2 University\3D Graphics\Startup Code 3D Graphics\Labs\bin\Debug\ACW\wall.jpg
+C:\Users\misha\Documents\Year 2 University\3D Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Lab4\texture2.jpg
+C:\Users\misha\Documents\Year 2 University\3D Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Lab4\texture3.jpg
+C:\Users\misha\Documents\Year 2 University\3D Graphics\Startup Code 3D Graphics\Labs\bin\Debug\ACW\Shaders\fLighting.frag
+C:\Users\misha\Documents\Year 2 University\3D Graphics\Startup Code 3D Graphics\Labs\bin\Debug\ACW\Shaders\vPassThrough.vert
+C:\Users\misha\Documents\Year 2 University\3D Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\fSimple.frag
+C:\Users\misha\Documents\Year 2 University\3D Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\vLab21.vert
+C:\Users\misha\Documents\Year 2 University\3D Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Lab2\Shaders\vLab22.vert
+C:\Users\misha\Documents\Year 2 University\3D Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Lab3\Shaders\fLighting.frag
+C:\Users\misha\Documents\Year 2 University\3D Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Lab3\Shaders\fPassThrough.frag
+C:\Users\misha\Documents\Year 2 University\3D Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Lab3\Shaders\vLighting.vert
+C:\Users\misha\Documents\Year 2 University\3D Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Lab3\Shaders\vPassThrough.vert
+C:\Users\misha\Documents\Year 2 University\3D Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Lab4\Shaders\fTexture.frag
+C:\Users\misha\Documents\Year 2 University\3D Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Lab4\Shaders\vTexture.vert
+C:\Users\misha\Documents\Year 2 University\3D Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Lab1\Shaders\fSimple.frag
+C:\Users\misha\Documents\Year 2 University\3D Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Lab1\Shaders\vSimple.vert
+C:\Users\misha\Documents\Year 2 University\3D Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\cylinder.bin
+C:\Users\misha\Documents\Year 2 University\3D Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\lab22model.sjg
+C:\Users\misha\Documents\Year 2 University\3D Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\model.bin
+C:\Users\misha\Documents\Year 2 University\3D Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Utility\Models\sphere.bin
+C:\Users\misha\Documents\Year 2 University\3D Graphics\Startup Code 3D Graphics\Labs\bin\Debug\OpenTK.dll
+C:\Users\misha\Documents\Year 2 University\3D Graphics\Startup Code 3D Graphics\Labs\obj\Debug\Labs.csproj.CoreCompileInputs.cache
+C:\Users\misha\Documents\Year 2 University\3D Graphics\Startup Code 3D Graphics\Labs\obj\Debug\Labs.csproj.CopyComplete
+C:\Users\misha\Documents\Year 2 University\3D Graphics\Startup Code 3D Graphics\Labs\obj\Debug\Labs.exe
+C:\Users\misha\Documents\Year 2 University\3D Graphics\Startup Code 3D Graphics\Labs\obj\Debug\Labs.pdb
+C:\Users\misha\Documents\Year 2 University\3D Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Labs.exe.config
+C:\Users\misha\Documents\Year 2 University\3D Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Labs.exe
+C:\Users\misha\Documents\Year 2 University\3D Graphics\Startup Code 3D Graphics\Labs\bin\Debug\Labs.pdb
